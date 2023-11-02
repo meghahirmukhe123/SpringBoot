@@ -1,0 +1,24 @@
+package com.jwtDemo1.entity;
+
+import lombok.Builder;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Builder
+public class jwtRequest {
+	
+	private String email;
+	private String password;
+
+	
+	
+	
+	
+	
+
+}

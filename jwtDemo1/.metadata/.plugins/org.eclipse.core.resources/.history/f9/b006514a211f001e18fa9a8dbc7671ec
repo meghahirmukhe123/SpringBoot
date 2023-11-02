@@ -1,0 +1,20 @@
+package com.jwtDemo1.entity;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+
+public class jwtRequest {
+	
+	private String email;
+	private String password;
+
+	
+	
+	
+	
+	
+
+}

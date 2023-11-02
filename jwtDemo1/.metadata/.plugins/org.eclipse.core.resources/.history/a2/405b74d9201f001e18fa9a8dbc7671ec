@@ -1,0 +1,16 @@
+package com.jwtDemo1.entity;
+
+
+
+public class jwtRequest {
+	
+	private String email;
+	private String password;
+
+	
+	
+	
+	
+	
+
+}
